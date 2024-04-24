@@ -24,5 +24,5 @@ The IsolationFOrest model only detected transactions as anamolies when they were
 
 #### Outline of Project
 
-- [Link to notebook 1](capstone.ipynb)
+- [Link to notebook 1](Capstone.ipynb)
 
